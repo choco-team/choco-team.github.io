@@ -8,4 +8,4 @@ image: https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?ixlib=rb-4.0
 featured: true
 ---
 
-조만간 없데이트 할게요 😁
+조만간 업데이트 할게요 😁
