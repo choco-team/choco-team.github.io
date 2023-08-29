@@ -3,8 +3,8 @@ locale: 'ko-KR'
 name: 'choco'
 title: 'choco'
 description: '초등교사(혹은 였던)의 코딩 프로젝트, 초코 🍫'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/LogoText.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: /
 url: https://choco-team.github.io/
 # google_analytics: 'UA-46278016-1'
