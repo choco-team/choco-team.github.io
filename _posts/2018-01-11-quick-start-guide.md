@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's test spoilers"
-author: 김홍동
+author: 홍동
 categories: [Jekyll, tutorial]
 image: assets/images/12.jpg
 featured: true
