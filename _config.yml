@@ -15,8 +15,8 @@ permalink: /:title/
 
 # Authors
 authors:
-  김홍동:
-    name: 김홍동
+  홍동:
+    name: 홍동
     display_name: 홍동
     avatar: https://avatars.githubusercontent.com/u/57981252?v=4
     email: nlom0218.dev@gmail.com
