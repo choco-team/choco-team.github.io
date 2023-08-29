@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta
@@ -107,7 +107,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/tags"> Tag</a>
+              <a class="nav-link" href="{{ site.baseurl }}/tags">Tag</a>
             </li>
 
             <li class="nav-item">
@@ -115,9 +115,11 @@
                 target="_blank"
                 class="nav-link"
                 href="https://github.com/choco-team"
-                ><i class="fab fa-github"></i>Github</a
+                ><i class="fab fa-github"></i> Github</a
               >
             </li>
+
+            {% include search-lunr.html %}
           </ul>
 
           <!-- End Menu -->
@@ -141,11 +143,6 @@
         <div class="main-content">{{ content }}</div>
 
         {% if site.mailchimp-list %}
-
-        <!-- Content
-================================================== -->
-
-        {% endif %}
       </div>
 
       <!-- Categories Jumbotron
