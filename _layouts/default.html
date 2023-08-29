@@ -102,16 +102,13 @@
 
             <li class="nav-item">
               {% endif %}
-              <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/categories"
+              <a class="nav-link" href="{{ site.baseurl }}/categories.html"
                 >Category</a
               >
             </li>
 
             <li class="nav-item">
+              {% endif %}
               <a class="nav-link" href="{{ site.baseurl }}/tags">Tag</a>
             </li>
 
@@ -123,8 +120,6 @@
                 ><i class="fab fa-github"></i> Github</a
               >
             </li>
-
-            {% include search-lunr.html %}
           </ul>
 
           <!-- End Menu -->
