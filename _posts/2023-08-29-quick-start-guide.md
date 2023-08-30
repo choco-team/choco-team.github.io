@@ -9,3 +9,13 @@ featured: true
 ---
 
 조만간 업데이트 할게요 😁
+
+```tsx
+const Header = () => {
+  return (
+    <div>
+      <span>티처캔</span>
+    </div>
+  );
+};
+```
